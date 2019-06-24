@@ -1,0 +1,17 @@
+com/alura/forum/controller/dto/RespostaDTO.class
+com/alura/forum/ForumApplication.class
+com/alura/forum/controller/dto/DetalhesDoTopicoDTO.class
+com/alura/forum/controller/TopicosController.class
+com/alura/forum/repository/TopicoRepository.class
+com/alura/forum/controller/form/AtualizacaoTopicoForm.class
+com/alura/forum/controller/form/TopicoForm.class
+com/alura/forum/model/Curso.class
+com/alura/forum/controller/HelloController.class
+com/alura/forum/controller/dto/TopicoDTO.class
+com/alura/forum/model/StatusTopico.class
+com/alura/forum/repository/CursoRepository.class
+com/alura/forum/config/validacao/ErroDeValidacaoHandler.class
+com/alura/forum/model/Usuario.class
+com/alura/forum/config/validacao/ErroDeFormularioDTO.class
+com/alura/forum/model/Resposta.class
+com/alura/forum/model/Topico.class

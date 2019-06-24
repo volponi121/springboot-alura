@@ -1,0 +1,17 @@
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/model/Resposta.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/controller/dto/DetalhesDoTopicoDTO.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/repository/CursoRepository.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/config/validacao/ErroDeFormularioDTO.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/model/Usuario.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/controller/TopicosController.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/config/validacao/ErroDeValidacaoHandler.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/controller/form/TopicoForm.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/controller/dto/TopicoDTO.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/repository/TopicoRepository.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/model/Topico.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/model/Curso.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/ForumApplication.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/controller/form/AtualizacaoTopicoForm.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/model/StatusTopico.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/controller/HelloController.java
+/home/fabio/Projects/springboot-alura/forum/src/main/java/com/alura/forum/controller/dto/RespostaDTO.java
