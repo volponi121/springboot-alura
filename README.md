@@ -1,5 +1,5 @@
 # springboot-alura
-Fazendo curso de SringBoot pelo site da Alura
+Segue os dois cursos finalizados.
 
 # https://cursos.alura.com.br/course/spring-boot-api-rest
 
